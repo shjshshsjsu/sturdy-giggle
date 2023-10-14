@@ -17,14 +17,14 @@ main.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 main.ResetOnSpawn = false 
 
 Frame.Parent = main
-Frame.BackgroundColor3 = Color3.fromRGB(163, 255, 137)
-Frame.BorderColor3 = Color3.fromRGB(103, 221, 213)
+Frame.BackgroundColor3 = Color3.fromRGB(54, 54, 54)
+Frame.BorderColor3 = Color3.fromRGB(54, 54, 54)
 Frame.Position = UDim2.new(0.100320168, 0, 0.379746825, 0)
 Frame.Size = UDim2.new(0, 190, 0, 57) 
 
 up.Name = "up"
 up.Parent = Frame
-up.BackgroundColor3 = Color3.fromRGB(79, 255, 152)
+up.BackgroundColor3 = Color3.fromRGB(1, 1, 1)
 up.Size = UDim2.new(0, 44, 0, 28)
 up.Font = Enum.Font.SourceSans
 up.Text = "UP"
