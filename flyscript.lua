@@ -40,9 +40,9 @@ TextLabel.Size = UDim2.new(0, 100, 0, 28)
 TextLabel.Font = Enum.Font.SourceSans
 TextLabel.Text = "Fly Gui 0.1"
 TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
-TextLabel.TextScaled = true
+T
 TextLabel.TextSize = 14.000
-TextLabel.TextWrapped = true 
+
 
 plus.Name = "plus"
 plus.Parent = Frame
@@ -52,9 +52,9 @@ plus.Size = UDim2.new(0, 45, 0, 28)
 plus.Font = Enum.Font.SourceSans
 plus.Text = "+"
 plus.TextColor3 = Color3.fromRGB(0, 0, 0)
-plus.TextScaled = true
+
 plus.TextSize = 14.000
-plus.TextWrapped = true 
+
 
 speed.Name = "speed"
 speed.Parent = Frame
@@ -64,9 +64,9 @@ speed.Size = UDim2.new(0, 44, 0, 28)
 speed.Font = Enum.Font.SourceSans
 speed.Text = "1"
 speed.TextColor3 = Color3.fromRGB(0, 0, 0)
-speed.TextScaled = true
+
 speed.TextSize = 14.000
-speed.TextWrapped = true 
+
 
 
 local speaker = game:GetService("Players").LocalPlayer 
