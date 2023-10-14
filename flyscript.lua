@@ -40,7 +40,7 @@ TextLabel.Size = UDim2.new(0, 100, 0, 28)
 TextLabel.Font = Enum.Font.SourceSans
 TextLabel.Text = "Fly Gui 0.1"
 TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
-T
+
 TextLabel.TextSize = 14.000
 
 
